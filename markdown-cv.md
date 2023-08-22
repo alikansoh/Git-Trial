@@ -34,6 +34,12 @@ CompuSun Technologies
 **Inventory Management System**
 Contributed to the development of an inventory management system using Java, which improved the efficiency of tracking and managing products for clients.
 
+### Courses
+
+- Currently enrolled in a full-stack web development program at Codi Tech Beirut, focusing on front-end and back-end technologies, including HTML, CSS, JavaScript, React, Node.js, and more.
+- Actively participating in English language courses to enhance communication skills and facilitate collaboration in international projects.
+
+
 
 ### Contact
 
